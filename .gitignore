@@ -1,0 +1,10 @@
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.docx
+*.bak-*
+photo_state.json
+_slideshow_concat.txt
+__pycache__/
+*.pyc
